@@ -1,5 +1,9 @@
 # Snake Game 
  A simple minimilistic snake game has been genrated using Java | Swing
+
+
+
+
 ![Screenshot 2024-09-01 073220](https://github.com/user-attachments/assets/c2eeaee7-a102-4d39-ba28-7c789e63ae8f)
 
 
